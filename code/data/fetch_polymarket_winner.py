@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 Polymarket 2026 FIFA World Cup Winner 实时抓取
 ================================================

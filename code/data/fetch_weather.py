@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 2026 FIFA World Cup 比赛场地天气抓取
 =====================================

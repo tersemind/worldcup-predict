@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 squad_value.json → teams.json[*].squad_value_m_eur 回写
 

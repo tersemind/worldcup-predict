@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 真实的 Elo 数据抓取器
 来源：eloratings.net 隐藏 TSV 接口（World.tsv）

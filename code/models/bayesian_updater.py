@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 贝叶斯动态更新引擎（参考报告 7.2 Layer 5）
 ================================================

@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 pi-ratings — Constantinou & Fenton (2013)
 ==========================================

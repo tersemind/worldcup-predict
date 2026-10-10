@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 FIFA 495 第三名晋级查询表（#2 P0 核心准确度）
 

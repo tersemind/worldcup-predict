@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 Walk-Forward 历届 WC 回测（参考报告 2.4.3）
 ================================================

@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 多源市场赔率聚合器
 - 支持 Polymarket / Kalshi / Betfair / Pinnacle 等多平台

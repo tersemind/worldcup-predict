@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 三情景平行模拟引擎（参考方法论 表 2.3）
 

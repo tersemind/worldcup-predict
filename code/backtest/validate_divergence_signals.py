@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 分化信号离线验证（standalone，零生产影响）
 ==========================================

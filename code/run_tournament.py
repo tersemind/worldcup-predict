@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 WorldCup Predict 主入口：完整跑通
   Step 1: 蒙特卡洛模拟（默认 100,000 次）

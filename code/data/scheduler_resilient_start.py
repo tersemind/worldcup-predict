@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 Scheduler 弹性启动器（断点续跑专用）
 ======================================

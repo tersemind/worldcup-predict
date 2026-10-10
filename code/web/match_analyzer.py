@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 LLM 单场分析器（深度分析报告体例 体例）
 
