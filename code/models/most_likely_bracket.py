@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 最可能剧本采样器（方案 B）
 ==========================

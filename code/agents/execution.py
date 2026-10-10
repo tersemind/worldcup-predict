@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 执行层 Agent（Worker 节点，1 倍权重）
 

@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 四级辩论协议（参考报告 2.3.3）
 ====================================

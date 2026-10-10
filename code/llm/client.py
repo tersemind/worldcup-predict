@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 Lingya LLM 客户端（OpenAI 兼容协议）
 

@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 历史比赛数据加载器（支持 ML 训练）
 

@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 真实多模型对比器（重写版）
 

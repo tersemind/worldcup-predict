@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 Bracket Difficulty 调整（synthesizer adj_bracket 项）
 =====================================================

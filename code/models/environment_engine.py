@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 环境因子动态注入引擎（#10 P2 模型升级）
 

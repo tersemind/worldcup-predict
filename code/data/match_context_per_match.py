@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 按场计算 H2H / referee / weather / lineups 的 (δA_pp, δB_pp)
 ================================================================

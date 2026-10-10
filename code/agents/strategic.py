@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 战略层 Agent（Queen 节点，3 倍权重）—— LLM 驱动版
 

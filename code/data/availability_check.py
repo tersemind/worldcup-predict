@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 数据可用性四问（Data Availability Quadruple-Check）
 ==================================================

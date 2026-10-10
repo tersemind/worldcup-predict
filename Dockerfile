@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 # WorldCup Predict v1.2 — Docker Image
 FROM python:3.11-slim
 

@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 跑批：扫描方案 B 的 most_likely_bracket.json，对所有「胶着场」（胜率 35-65%）
 跑 5-Agent Byzantine 微调，输出 critical_node_adjustments.json

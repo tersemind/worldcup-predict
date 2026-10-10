@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 综合预测器：在蒙特卡洛基准概率上叠加情境/伤病/心理调整
 输出最终冠军概率 + 95% CI + 偏差识别

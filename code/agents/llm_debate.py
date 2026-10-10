@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 LLM 多轮辩论引擎（参考报告 2.3.3 完整实现）
 ===============================================

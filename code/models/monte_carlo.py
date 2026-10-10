@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 蒙特卡洛锦标赛模拟器
 执行 N 次完整 2026 世界杯赛程模拟，统计夺冠/进决赛/进四强分布

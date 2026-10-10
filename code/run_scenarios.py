@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 三情景蒙特卡洛主入口
 

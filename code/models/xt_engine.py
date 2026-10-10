@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 xT 引擎 — Karun Singh (2018) Expected Threat 实现
 ==================================================

@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 信号2 离线验证：motivation / dead-rubber（晋级形势盲区）
 =========================================================

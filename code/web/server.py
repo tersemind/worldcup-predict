@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 WorldCup Predict Web 仪表盘（#11 P3）
 

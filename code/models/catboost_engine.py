@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 CatBoost 3 分类引擎（参考报告模型 10）
 =======================================

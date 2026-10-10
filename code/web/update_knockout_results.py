@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 自动从 ESPN 抓取世界杯淘汰赛实际结果，更新到 knockout_results.json。
 由 launchd 每 10 分钟调度一次。

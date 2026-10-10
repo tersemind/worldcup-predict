@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 数据刷新辅助工具：
 - 由 Claude 在 /wc-predict refresh 命令中调用

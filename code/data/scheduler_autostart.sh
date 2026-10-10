@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 # WorldCup Scheduler - 开机自启 + 断点续跑 安装/管理脚本
 # =========================================================
 # 用法:

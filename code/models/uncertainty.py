@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 Layer 5：三层不确定性分解（参考报告第 2.4 章）
 

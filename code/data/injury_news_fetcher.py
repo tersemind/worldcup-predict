@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 伤病新闻自动抓取器（#5 P1 数据自动化）
 

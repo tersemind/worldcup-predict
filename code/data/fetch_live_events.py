@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 赛中事件流抓取（ESPN scoreboard，免费无 key）
 =============================================

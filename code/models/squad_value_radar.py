@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 阵容市值雷达（Transfermarkt via Serper + LLM）
 ==================================================

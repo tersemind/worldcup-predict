@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 Elo 评级引擎
 公式：P(A wins) = 1 / (1 + 10^((Elo_B - Elo_A) / s))

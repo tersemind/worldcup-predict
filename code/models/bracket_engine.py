@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 真实 FIFA 2026 Bracket 引擎
 - 使用 bracket.json 中的真实对阵结构

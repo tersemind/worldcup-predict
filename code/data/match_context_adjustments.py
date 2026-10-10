@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 从 h2h.json / referee.json 聚合出 per-team 的概率调整百分点。
 

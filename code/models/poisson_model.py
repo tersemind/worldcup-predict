@@ -1,3 +1,6 @@
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 """
 Poisson 进球分布模型族（参考 Layer 3）
 =========================================

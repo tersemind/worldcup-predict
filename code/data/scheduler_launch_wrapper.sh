@@ -1,4 +1,7 @@
 #!/bin/bash
+# Copyright (C) TerseMind.
+# Use of this source code is governed by a MIT license.
+
 # launchd 启动 wrapper：在调用 scheduler_resilient_start.py 之前注入 LLM 凭据
 # 这样 ~/.secrets/llm_keys.env 是唯一的 key 来源，plist 不需要存明文
 set -e
